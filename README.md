@@ -15,6 +15,7 @@
 - Bulma CSS (https://bulma.io)
 
 # Info
+- Preview live at: [https://simple-wedding-invitation.dae.ng/] (https://simple-wedding-invitation.dae.ng/)
 - Or check demo at: [https://simple-wedding-invitation.netlify.app/](https://simple-wedding-invitation.netlify.app/)
 
 # Fonts
@@ -24,3 +25,4 @@
 
 # Credits
 - Floral vector created by BiZkettE1 - www.freepik.com (https://www.freepik.com/free-photos-vectors/background)
+- Photos from unsplash.com (https://www.unsplash.com)
