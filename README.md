@@ -15,8 +15,7 @@
 - Bulma CSS (https://bulma.io)
 
 # Info
-- Preview live at: [https://simple-wedding-invitation.dae.ng/] (https://simple-wedding-invitation.dae.ng/)
-- Or check demo at: [https://simple-wedding-invitation.netlify.app/](https://simple-wedding-invitation.netlify.app/)
+- Check demo at: [https://simple-wedding-invitation.netlify.app/](https://simple-wedding-invitation.netlify.app/)
 
 # Fonts
 - Rouge Script (Google Font)
